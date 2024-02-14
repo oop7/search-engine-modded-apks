@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #11171D;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.search-engine {
+    margin-top: 20px; /* Adjust the margin as needed to create space between <h1> and search engine */
+    padding: 20px; /* Add padding for spacing inside the container */
+    border-radius: 10px; /* Apply curved edges to the search engine container */
+    background-color: #1A2837; /* Set background color */
+    width: 85%;
+}
+.txt_1{
+    font-size: 250%;
+}
