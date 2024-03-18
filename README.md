@@ -1,4 +1,4 @@
-## 🌐 List of patches in this repository
+## 🌐 List of sites in this repository
 
 ### [🔗 `modyolo`](https://modyolo.com/)
 
