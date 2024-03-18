@@ -1,4 +1,5 @@
-## 📋 List of patches in this repository
+## 🌐 List of patches in this repository
 
--androeed.store
--modyolo.com
+### [🔗 `modyolo`](https://modyolo.com/)
+
+### [🔗 `androeed`](https://androeed.store/)
