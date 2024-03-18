@@ -1,4 +1,4 @@
-## 🌐 List of sites in this repository
+## 🌐 List of sites in this search engine
 
 ### [🔗 `modyolo`](https://modyolo.com/)
 
